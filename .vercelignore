@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Trained ML models
+*.pkl
+*.joblib
+
+# Training artifacts
+data/
+notebooks/
+
+# Python cache
+__pycache__/
